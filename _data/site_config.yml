@@ -195,6 +195,8 @@ menu:
   - path: /about
     translation_key: menu.about
     dropdown: []
+  - path: my-example-page/
+    translation_key: My menu item
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national

@@ -3,7 +3,6 @@ title: About
 language: en
 permalink: /about/
 layout: page
-toc: true
 ---
 ## Table of contents
 - [About this site](#about-this-site)

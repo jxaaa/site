@@ -1,7 +1,8 @@
 ---
-title: This is my example title
-language: en
-permalink: my-example-page/
+title: About the SDGs
+permalink: /about/
 layout: page
+toc: true
 ---
-This is my page content.
+## First heading
+This is my About page content
